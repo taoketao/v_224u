@@ -1,0 +1,5 @@
+Morgan Bryant, April 2018
+
+This github repo will manage my code across OSes and distros.
+Take note of the .gitignore, which will attempt to ignore all
+machine-specific code and contained repositories.
