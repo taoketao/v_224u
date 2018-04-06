@@ -1,0 +1,24 @@
+ *  Course set-up
+ *  Ng & Zelle 1997
+ *  Ferrucci 2010
+ *  Mitchell 2004
+    The challenge and promise of AI (53min)
+    Levesque 2003
+    sc overview
+    sc vector comparison
+    sc reweighting
+    sc dimensionality reduction
+    t-SNE van der Maaten
+    Turney and Pantel 2010
+    Pennington et al 2014
+    Faruqui et al 2015
+    Designs, distances, basic reweighting
+    (op) The semantic orientation method
+    Dimensionality Reduction and ...
+    (op) Word analogies
+    Retrofitting
+    Bake-off due 4/16: word similarity tasks
+    HW1 due 4/16
+
+
+    Levesque: "The  science  of  AI  is  concerned  with  the  study of intelligent forms of behaviour in computational terms."
